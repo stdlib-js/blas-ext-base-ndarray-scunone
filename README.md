@@ -35,6 +35,12 @@ limitations under the License.
 
 > Cumulatively test whether every element in a one-dimensional single-precision floating-point ndarray is falsy.
 
+<section class="intro">
+
+</section>
+
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
